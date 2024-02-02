@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                'Flutter - The Complete Guide',
+                'Flutter - The Complete Guide Course',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 24,
